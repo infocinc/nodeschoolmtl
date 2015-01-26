@@ -23,6 +23,7 @@ keystone.init({
 	'auto update': true,
 	'session': true,
 	'auth': true,
+	'mongo': process.env.MONGOLAB_URI,
 	'user model': 'User',
 	'cookie secret': 'Q,h/?A31B*%~ai1+[}Kk{-|]<TtP+8ILJ}!P=tuC8^LPu#kJ,+>soWQ]0^Tv8~`i'
 
