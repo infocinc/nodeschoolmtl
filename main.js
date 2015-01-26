@@ -11,8 +11,8 @@ var keystone = require('keystone');
 
 keystone.init({
 
-	'name': 'NodeSchoolMTL',
-	'brand': 'NodeSchoolMTL',
+	'name': 'NodeSchool MTL',
+	'brand': 'NodeSchool MTL',
 	'less': 'public',
 	'static': 'public',
 	'favicon': 'public/favicon.ico',
