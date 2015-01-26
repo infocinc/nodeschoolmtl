@@ -10,7 +10,7 @@
 // local use only.
 exports.create = {
 	User: [
-		{ 'name.first': 'Admin', 'name.last': 'User', email: 'nicjs@keystonejs.com', password: 'node53627!', isAdmin: true }
+		{ 'name.first': 'Admin', 'name.last': 'User', email: 'nicjs@keystonejs.com', password: 'admin', isAdmin: true }
 	]
 };
 
